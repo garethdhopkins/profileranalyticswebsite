@@ -1,0 +1,54 @@
+﻿.btn-default{background-color:#f5f5f5}.btn-default:hover,.btn-default:focus,.btn-default:active,.btn-default.active,.open .dropdown-toggle.btn-default{background-color:#e0e0e0}.btn-white{color:#333;background-color:#fff;border-color:#ccc}.btn-white:hover,.btn-white:focus,.btn-white:active,.btn-white.active,.open .dropdown-toggle.btn-white{color:#333;background-color:#ebebeb;border-color:#adadad}.btn-white:active,.btn-white.active,.open .dropdown-toggle.btn-white{background-image:none}.btn-white.disabled,.btn-white[disabled],fieldset[disabled] .btn-white,.btn-white.disabled:hover,.btn-white[disabled]:hover,fieldset[disabled] .btn-white:hover,.btn-white.disabled:focus,.btn-white[disabled]:focus,fieldset[disabled] .btn-white:focus,.btn-white.disabled:active,.btn-white[disabled]:active,fieldset[disabled] .btn-white:active,.btn-white.disabled.active,.btn-white[disabled].active,fieldset[disabled] .btn-white.active{background-color:#fff;border-color:#ccc}.btn-white .badge{color:#fff;background-color:#333}.panel,.panel-heading,.panel-footer{border-radius:0}
+
+
+.frontend-nav,
+.t-widget.t-treeview  {
+    text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+    background-color: #013E7F;
+    border-color: #003175;
+    box-shadow: 0 1px 0 rgba(255,255,255,.1);
+    margin-bottom:20px;
+    background-image:none;
+}
+
+.t-widget.t-treeview {
+    margin-top:15px;
+}
+
+.frontend-nav .navbar-collapse {
+  border-color: #003175;
+}
+.frontend-nav .navbar-brand {
+color: #fff;
+}
+.frontend-nav .navbar-nav > li > a {
+  color: #dddddd;
+}
+.frontend-nav .navbar-nav > li > a:hover {
+  color: #fff;
+}
+.frontend-nav .navbar-nav > .active > a,
+.frontend-nav .navbar-nav > .active > a:hover {
+  color: #fff;
+  background-color: #003175;
+}
+.frontend-nav .navbar-toggle {
+  border-color: #013E7F;
+}
+.frontend-nav .navbar-toggle:hover {
+  background-color: #003175;
+  border-color: #003175;
+}
+
+ .frontend-nav.navbar .navbar-brand {
+    color: white;
+    font-size: 20px;
+    text-shadow: none;
+    font-weight: 200;
+    height: 40px;
+    vertical-align: middle;
+  }
+
+.frontend-nav.navbar-inverse .navbar-nav > .open > a {
+    background-color: #013E7F;
+}
