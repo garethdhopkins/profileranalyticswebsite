@@ -387,7 +387,9 @@ color: #fff;
 text-transform: uppercase;
 letter-spacing: 2px;
 border-radius: 300px;
-width: 300px;
+}
+.btn:not(.btn-block) {
+  width:300px;
 }
 .btn-xl {
 padding: 15px 45px;
