@@ -386,7 +386,7 @@ font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
 color: #fff;
 text-transform: uppercase;
 letter-spacing: 2px;
-border-radius: 300px;
+border-radius: 15px;
 }
 .btn:not(.btn-block) {
   width:300px;
@@ -398,7 +398,7 @@ font-size: 11px;
 
 .welcome-panel {
   background-color: #013E7F;
-  border-radius: 24px;
+  border-radius: 15px;
   color: #fff;
   padding:20px;
 }
